@@ -33,6 +33,9 @@ If possible, please consider sending any amount to help and motivate me to conti
 
 ```bash
 npm i puppeteer
+```
+
+```bash
 npm i puppeteer-real-browser
 ```
 
