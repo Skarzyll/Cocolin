@@ -10,6 +10,7 @@ If possible, please consider sending any amount to help and motivate me to conti
 **PayPal account:** <cocolinproject@gmail.com>
 
 ---
+**The video on how to use it** [**here**](https://www.youtube.com/watch?v=d9a7mL2ki3s)
 
 ## Observations
 
